@@ -1,0 +1,52 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "PLCrashReporter",
+        "repositoryURL": "https://github.com/microsoft/plcrashreporter",
+        "state": {
+          "branch": null,
+          "revision": "b1a342da19ed9b3af61ea2efa7656c2af30aeb7c",
+          "version": "1.11.0"
+        }
+      },
+      {
+        "package": "Reachability",
+        "repositoryURL": "https://github.com/ashleymills/Reachability.swift.git",
+        "state": {
+          "branch": null,
+          "revision": "c01bbdf2d633cf049ae1ed1a68a2020a8bda32e2",
+          "version": "5.1.0"
+        }
+      },
+      {
+        "package": "swift-nio-zlib-support",
+        "repositoryURL": "https://github.com/apple/swift-nio-zlib-support.git",
+        "state": {
+          "branch": null,
+          "revision": "37760e9a52030bb9011972c5213c3350fa9d41fd",
+          "version": "1.0.0"
+        }
+      },
+      {
+        "package": "SwiftKeychainWrapper",
+        "repositoryURL": "https://github.com/jrendel/SwiftKeychainWrapper.git",
+        "state": {
+          "branch": null,
+          "revision": "185a3165346a03767101c4f62e9a545a0fe0530f",
+          "version": "4.0.1"
+        }
+      },
+      {
+        "package": "SwiftyStoreKit",
+        "repositoryURL": "https://github.com/bizz84/SwiftyStoreKit.git",
+        "state": {
+          "branch": null,
+          "revision": "9ce911639680113dac9b554d6243e406a9758ebe",
+          "version": "0.16.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
